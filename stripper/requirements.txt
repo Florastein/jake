@@ -3,3 +3,4 @@ djangorestframework
 flake8
 unittest
 psycopg2
+django-environ
